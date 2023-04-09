@@ -1,0 +1,5 @@
+export const ActionTypes = {
+    SET_ARTICLES : "SET_ARTICLES",
+    SET_TOTALRESULTS : "SET_TOTALRESULTS",
+    SET_PAGE: "SET_PAGE"
+}
